@@ -7,7 +7,7 @@
  --*	Manual of Board nexys 2: http://www.pld.ttu.ee/~alsu/DE_Nexys2.pdf
  --*	Manual of Board nexys 3: http://www.pld.ttu.ee/~alsu/DE_Nexys3.pdf
  --*	Description of Software:
- --*		Harvard architecture based CPU - memory unit
+ --*		Harvard architecture based CPU
  --*
  --***************************************************************************************************/
 LIBRARY ieee;
