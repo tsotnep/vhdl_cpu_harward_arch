@@ -9,6 +9,7 @@
  --*	Description of Software:
  --*		Harvard architecture based CPU - simulating control unit
  --*
+ --* 	copyright: you can use anything from here, you can also add some manual
  --***************************************************************************************************/
 
 LIBRARY ieee;

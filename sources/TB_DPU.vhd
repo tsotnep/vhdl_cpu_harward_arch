@@ -9,6 +9,7 @@
  --*	Description of Software:
  --*		Harvard architecture based CPU - test bench for data path of cpu
  --*
+ --* 	copyright: you can use anything from here, you can also add some manual
  --***************************************************************************************************/
 
 LIBRARY ieee;

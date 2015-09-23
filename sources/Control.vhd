@@ -9,6 +9,7 @@
  --*	Description of Software:
  --*		Harvard architecture based CPU - main CONTROL unit, this is topmodule
  --*
+ --* 	copyright: you can use anything from here, you can also add some manual
  --***************************************************************************************************/
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

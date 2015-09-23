@@ -9,6 +9,7 @@
  --*	Description of Software:
  --*		Harvard architecture based CPU - clock debouncing
  --*
+ --* 	copyright: you can use anything from here, you can also add some manual
  --***************************************************************************************************/
 
 library IEEE;

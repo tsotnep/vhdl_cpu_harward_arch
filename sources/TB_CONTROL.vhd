@@ -9,6 +9,7 @@
  --*	Description of Software:
  --*		Harvard architecture based CPU - test bench for main unit Control.
  --*
+ --* 	copyright: you can use anything from here, you can also add some manual
  --***************************************************************************************************/
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;

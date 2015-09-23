@@ -9,6 +9,7 @@
  --*	Description of Software:
  --*		Harvard architecture based CPU - using seven segment display on board
  --*
+ --* 	copyright: you can use anything from here, you can also add some manual
  --***************************************************************************************************/
 library IEEE;
 use IEEE.std_logic_1164.all;

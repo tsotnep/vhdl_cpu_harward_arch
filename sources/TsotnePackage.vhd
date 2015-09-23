@@ -9,6 +9,7 @@
  --*	Description of Software:
  --*		Harvard architecture based CPU - instructions, states, to_bcd, bcd_to_sevseg
  --*
+ --* 	copyright: you can use anything from here, you can also add some manual
  --***************************************************************************************************/
 
 library IEEE;

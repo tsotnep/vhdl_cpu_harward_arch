@@ -1,6 +1,23 @@
+--***************************************************************************************************
+ --*	Author: Tsotne Putkaradze, tsotnep@gmail.com
+ --*	Professor: Peeter Ellervee
+ --*	Lab Assitant: Siavoosh Payandeh Azad, Muhammad Adeel Tajammul
+ --*	University: Tallinn Technical University, subject: IAY0340
+ --*	Board: Nexys 2, Nexys 3
+ --*	Manual of Board nexys 2: http://www.pld.ttu.ee/~alsu/DE_Nexys2.pdf
+ --*	Manual of Board nexys 3: http://www.pld.ttu.ee/~alsu/DE_Nexys3.pdf
+ --*	Description of Software:
+ --*		Harvard architecture based CPU - instruction memory unit
+ --*
+ --* 	copyright: you can use anything from here, you can also add some manual
+ --***************************************************************************************************/
+
 given constraints are for FPGA nexys 3
 
-instructions are written in instr memory, then bitstream should be generated, 
-one button works as clock, and answers are displayed on seven segment. on Decimal.
+instructions are written in instr memory, 
+then bitstream should be generated, 
+one button works as clock, 
+and answers are displayed on seven segment in Decimal.
 
 ain't nobody got time for more documentations :D 
+tsotnep
