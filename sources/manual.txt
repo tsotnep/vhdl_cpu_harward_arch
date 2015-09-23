@@ -1,0 +1,6 @@
+given constraints are for FPGA nexys 3
+
+instructions are written in instr memory, then bitstream should be generated, 
+one button works as clock, and answers are displayed on seven segment. on Decimal.
+
+ain't nobody got time for more documentations :D 

@@ -1,0 +1,39 @@
+
+## nexys 3
+NET "realCLK" loc = V10;
+NET "rst" loc = C4;
+NET "clkBtn" loc = D9;
+NET "LEDS(0)" LOC = U16;
+NET "LEDS(1)" loc = V16;
+NET "LEDS(2)" loc = U15;
+NET "LEDS(3)" loc = V15;
+NET "LEDS(4)" loc = M11; //E16 for 1200
+NET "LEDS(5)" loc = N11; //P16 for 1200
+NET "LEDS(6)" loc = R11;
+NET "LEDS(7)" loc = T11;
+
+NET "AN(0)" LOC = N16;
+NET "AN(1)" loc = N15;
+NET "AN(2)" loc = P18;
+NET "AN(3)" loc = P17;
+
+NET "SS(0)" LOC = T17;
+NET "SS(1)" loc = T18;
+NET "SS(2)" loc = U17;
+NET "SS(3)" loc = U18;
+NET "SS(4)" loc = M14;
+NET "SS(5)" loc = N14;
+NET "SS(6)" loc = L14;
+NET "SS(7)" loc = M13;
+
+## nexys 2
+#NET "clk" loc = B8;
+#NET "rst" loc = B18;
+#NET "LEDS(0)" LOC = J14;
+#NET "LEDS(1)" loc = J15;
+#NET "LEDS(2)" loc = K15;
+#NET "LEDS(3)" loc = K14;
+#NET "LEDS(4)" loc = E17; //E16 for 1200
+#NET "LEDS(5)" loc = P15; //P16 for 1200
+#NET "LEDS(6)" loc = F4;
+#NET "LEDS(7)" loc = R4;
